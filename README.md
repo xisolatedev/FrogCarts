@@ -6,3 +6,8 @@ https://ryanjetplane1.itch.io/frog-carts
 PROJECT ZIP BEACUSE OF UPLOAD LIMIT: https://drive.google.com/file/d/1WvUrRgTqFZDshb9gCLFJrw843ZOGWkF4/view?usp=sharing
 </br>
 CAD files can be found in the in-game assets, aside from the shopping cart, which was modeled in Fusion 360.
+
+
+Credit:
+Code by IsoDev
+Models by ryanjetplane1
